@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/tnvv15/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/tnvv15/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/tnvv15/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
