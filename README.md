@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/tnvv15/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/tnvv15/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tnvv15/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tnvv15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
