@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/tnvv15/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/tnvv15/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/tnvv15/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tnvv15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/tnvv15/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0746-min-cost-climbing-stairs](https://github.com/tnvv15/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
