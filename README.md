@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tnvv15/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/tnvv15/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tnvv15/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/tnvv15/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tnvv15/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/tnvv15/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tnvv15/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tnvv15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/tnvv15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/tnvv15/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
