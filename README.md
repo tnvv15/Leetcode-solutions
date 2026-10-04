@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tnvv15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/tnvv15/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tnvv15/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tnvv15/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tnvv15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tnvv15/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
